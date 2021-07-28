@@ -16,6 +16,21 @@ main{
     padding: 10px;
 }
 
+main h1, h2{
+    color: rgb(51, 161, 167);
+    font-size: 24px;
+}
+main a img{
+    margin-left: 450px;
+}
+main a{
+    text-decoration: none;
+    color: black;
+}
+main a:hover{
+    color: blue;
+}
+
 
 main .lado{
     float: right;
